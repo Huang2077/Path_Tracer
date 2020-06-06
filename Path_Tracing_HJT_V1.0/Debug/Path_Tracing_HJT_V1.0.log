@@ -1,0 +1,18 @@
+﻿  源.cpp
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\onb.h(15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\onb.h(16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\onb.h(18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(41): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(45): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(46): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(47): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(65): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(90): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(91): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(96): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(118): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(150): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(178): warning C4305: “参数”: 从“double”到“float”截断
+c:\users\huangji\documents\visual studio 2015\projects\path_tracing_hjt_v1.0\path_tracing_hjt_v1.0\源.cpp(179): warning C4305: “参数”: 从“double”到“float”截断
+  Path_Tracing_HJT_V1.0.vcxproj -> C:\Users\HUANGJI\Documents\Visual Studio 2015\Projects\Path_Tracing_HJT_V1.0\Debug\Path_Tracing_HJT_V1.0.exe
+  Path_Tracing_HJT_V1.0.vcxproj -> C:\Users\HUANGJI\Documents\Visual Studio 2015\Projects\Path_Tracing_HJT_V1.0\Debug\Path_Tracing_HJT_V1.0.pdb (Full PDB)
