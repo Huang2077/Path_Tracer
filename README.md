@@ -4,10 +4,10 @@ Saitama University/Komuro Laboratory/HUANG JINGTAO
 # Introduction   
 This is a basic path tracer
 # Function
-1.Custom light sources ：point light, spot light, parallel light, range light
-2.Basic geometries: sphere, plane、
-3.A complete BRDF model
-4.Recursive Monte Carlo integration(Global illumination)
+1.Custom light sources ：point light, spot light, parallel light, range light  
+2.Basic geometries: sphere, plane  
+3.A complete BRDF model  
+4.Recursive Monte Carlo integration(Global illumination)  
 # Reference
 [pbrt-v3](https://www.amazon.com/Physically-Based-Rendering-Theory-Implementation/dp/0128006455)
 # Results
